@@ -1,7 +1,7 @@
 {
-  "name": "nodejs10",
+  "name": "nodejs11",
   "version": "1.0.0",
-  "description": "JWT",
+  "description": "User roles",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
